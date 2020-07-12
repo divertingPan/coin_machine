@@ -25,6 +25,10 @@ def draw_min_rect_circle(img, cnts):  # conts = contours
     return img
 
 
+if not os.path.isdir('./testing_img_seg'):
+    os.makedirs('./testing_img_seg')
+
+
 for maindir, subdir, file_name_list in os.walk('./testing_img'):
     for filename in file_name_list:
         apath = os.path.join(maindir, filename)
