@@ -10,7 +10,7 @@
 **简要说明**  
   
 * [RFR_GM](https://github.com/divertingPan/coin_machine/tree/master/RFR_GM)：
-这篇论文的复现：[Image-based coin recognitionusing rotation-invariant region binary patterns based on gradient magnitudes](https://www.sciencedirect.com/science/article/pii/S1047320315001546)
+这篇论文的MATLAB复现：[Image-based coin recognitionusing rotation-invariant region binary patterns based on gradient magnitudes](https://www.sciencedirect.com/science/article/pii/S1047320315001546)
 
 * [classification](https://github.com/divertingPan/coin_machine/tree/master/classification)：
 一些其他的分类方法尝试，效果均不好
