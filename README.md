@@ -16,7 +16,7 @@
 一些其他的分类方法尝试，效果均不好
 
 * [crawler](https://github.com/divertingPan/coin_machine/tree/master/crawler)：
-网络爬虫，试图爬取[Ucoin](https://zh-cn.ucoin.net/catalog)网站上的所有硬币图片，但是反扒比较严
+网络爬虫，试图爬取[Ucoin](https://zh-cn.ucoin.net/catalog)网站上的所有硬币图片，但是反爬比较严
 
 * [dataset](https://github.com/divertingPan/coin_machine/tree/master/dataset)：
 本次toy项目的自用数据集，其中包括200对自己拍的图片和对应的网站上的图片，已标注。
