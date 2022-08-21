@@ -2,7 +2,7 @@ rings = 12;
 sub_regions = 20;
 I_size = 256;
 
-% IND = IND(sub_regions);
+IND = IND(sub_regions);
 load('RFR_log/IND.mat')
 disp('IND loaded');
 
